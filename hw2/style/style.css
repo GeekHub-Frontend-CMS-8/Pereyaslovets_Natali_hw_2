@@ -1,0 +1,44 @@
+.wrapper
+	{
+		padding: 30px 100px;
+		}
+	
+
+.block_intro
+    {
+		font-weight: bold;
+		}
+		
+.block_intro_em
+	{
+		font-weight: bold;
+		font-style: italic;
+		}
+		
+.p_block_1
+    {
+		text-align:center;
+		}
+	
+.intro
+    {
+		text-decoration: underline;	
+		}
+
+.block_intro_right
+	{
+		font-style: italic;
+		text-align:right;
+		}
+		
+.imgCenter
+	{
+		display:block; 
+		margin:0 auto;
+		}
+
+.imgLeft
+	{
+		float: left; 
+		padding: 10px; 
+		}
